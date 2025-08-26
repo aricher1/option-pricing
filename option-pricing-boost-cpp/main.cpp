@@ -1,5 +1,4 @@
 /* 
-Title: Introductory Computational Finance
 Author: Aidan Richer (2025)
 
 In this file we will test the following functionality of our program:
